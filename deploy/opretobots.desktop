@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Opreto Bots
+Comment=Opreto Bots arcade kiosk
+Exec=@APP_DIR@/deploy/run_kiosk.sh
+Terminal=false
+X-GNOME-Autostart-enabled=true
